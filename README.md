@@ -1,4 +1,4 @@
-# Jacson Medeiros(resume)
+# Jacson Medeiros
 * [HitCount](https://hits.dwyl.com/)
 
 * [Preview](https://github.com/jacsonsm/)
