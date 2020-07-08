@@ -1,5 +1,5 @@
 # Jacson Medeiros
-* [HitCount](https://hits.dwyl.com/)
+* [![HitCount](http://hits.dwyl.com/jacsonsm/meu-projeto-git.svg)](http://hits.dwyl.com/jacsonsm/meu-projeto-git)
 
 * [Preview](https://github.com/jacsonsm/)
 # meu-projeto-git
