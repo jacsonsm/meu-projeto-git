@@ -1,7 +1,7 @@
-#Jacson Medeiros
-[!HitCount](https://hits.dwyl.com/)
+# Jacson Medeiros(resume)
+* [!HitCount](https://hits.dwyl.com/)
 
-![Preview](https://github.com/jacsonsm/)
+* ![Preview](https://github.com/jacsonsm/)
 # meu-projeto-git
  somente um repo de teste
 
